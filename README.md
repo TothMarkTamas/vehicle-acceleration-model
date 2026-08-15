@@ -39,7 +39,7 @@ A MATLAB-based vehicle dynamics simulation model built from scratch, evolving fr
 
 ## 📈 Visualizations Generated
 
-The main simulation script (`vehicle_performance_v6.m`) generates three core engineering plots:
+The main simulation script (`vehicle_performance_v6_FINAL.m`) generates three core engineering plots:
 * **Engine Performance Curve:** Interpolated torque (Nm) and power (kW) across the RPM band.
 * **Traction Force vs Speed by Gear:** Multi-gear traction curves overlaid with the tire adhesion threshold.
 * **Acceleration Profile (V5 vs V6):** Direct comparison between theoretical CVT performance and real manual gear transitions.
